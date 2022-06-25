@@ -53,10 +53,54 @@ Azure App Service, Web App
 
 ### Screenshots :
 
+![Capture1](https://user-images.githubusercontent.com/88621875/175772186-e21e14bd-9a7d-42c5-a5d7-3327a5dd2e26.PNG)
+
+![ss3 0](https://user-images.githubusercontent.com/88621875/175772221-09aa4e62-da21-4785-8d69-cc506ae78aa7.png)
+
+![ss4 0](https://user-images.githubusercontent.com/88621875/175772225-264c42c1-22c0-4d5b-802b-f7455eb2d7c4.png)
+
+![ss5 0](https://user-images.githubusercontent.com/88621875/175772228-1128b775-b912-4e65-977a-dd524a460f9a.png)
+
+![ss6 0](https://user-images.githubusercontent.com/88621875/175772239-2a28782f-513f-4c74-b77a-82d4322da805.png)
+
+![ss7 0](https://user-images.githubusercontent.com/88621875/175772247-1d678f7e-cc7a-4fbe-9ddd-a3f2a3723c10.png)
+
+![ss8 0](https://user-images.githubusercontent.com/88621875/175772252-8e9522ea-d5f1-44ff-903e-08843f3ff27c.png)
+
+![ss9 0](https://user-images.githubusercontent.com/88621875/175772254-e4dc4ed6-fec0-4a5c-827d-b7f86cb40abe.png)
+
+![ss10 0](https://user-images.githubusercontent.com/88621875/175772259-7f147f86-05c2-4e97-b4dc-1ddac0abba37.png)
+
+![ss11 0](https://user-images.githubusercontent.com/88621875/175772263-bc9655ca-48f6-4164-8e0f-14c256c9bd26.png)
+
+![ss12 0](https://user-images.githubusercontent.com/88621875/175772266-237d326d-44e2-4ca9-938b-b1fab4b50dc7.png)
+
+![ss13 0](https://user-images.githubusercontent.com/88621875/175772272-48299d21-d195-4e3e-9ead-e91e051360bf.png)
+
+![ss14 0](https://user-images.githubusercontent.com/88621875/175772275-c895bd67-73fb-4d48-b833-4474fa0228b5.png)
+
+![ss15 0](https://user-images.githubusercontent.com/88621875/175772280-9e754450-88f3-4d99-823a-b4bc88a3ba31.png)
+
+![ss16 0](https://user-images.githubusercontent.com/88621875/175772287-a4d8fdd1-8fc6-43cd-9045-a729da1a6728.png)
+
+![ss17 0](https://user-images.githubusercontent.com/88621875/175772292-71ef6b63-50de-4662-b823-e2eee8c7cd09.png)
+
+![ss18 0](https://user-images.githubusercontent.com/88621875/175772298-ac534141-da68-4de1-a3a4-c71c923c9a35.png)
+
+![ss19 0](https://user-images.githubusercontent.com/88621875/175772301-b4936e2f-38ce-4b0e-920d-4aee9c092821.png)
+
+![ss20 0](https://user-images.githubusercontent.com/88621875/175772303-e4080fac-5530-461e-af1c-36f09fa298cf.png)
+
+![ss21 0](https://user-images.githubusercontent.com/88621875/175772307-5c67fd4e-5b0f-4107-9cf1-5a6f193e9b5a.png)
+
+![ss23 0](https://user-images.githubusercontent.com/88621875/175772310-50fa39ff-9788-4eea-b4ac-909de8949095.png)
+
+
+### Login Credentials :
+Username: admin <br>
+Password: admin123
+
 
 ### Project Link(URL) : https://pharmacysystem64.azurewebsites.net/
-
-
-
 
 
